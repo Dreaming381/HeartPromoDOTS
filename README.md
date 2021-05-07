@@ -3,10 +3,10 @@
 This repo contains the source code and assets used for a workshop for teaching
 the Unity’s C\# Job System and Burst for GameObject-based projects.
 
-This workshop was originally a 6 hour workshop presented on Valentine’s Day of
+This workshop was originally a 6-hour workshop presented on Valentine’s Day of
 2020, but has since been revamped for use in 2020.3 LTS and the latest 3D Game
-Kit. At the time of writing, a variation of this new version was presented(link
-this word) by Roger Kueng.
+Kit. A variation of this demo was
+[presented](https://xrbootcamp.com/the-power-of-unity-dots/) by Roger Kueng.
 
 ## Usage
 
@@ -28,5 +28,5 @@ instances, or even add new processors.
 ## Can I use this in production?
 
 Please note that this demo has chosen clarity over optimization in several
-areas. But in spite of that, it is already capable of doing things traditionally
-not possible with Unity. Feel free to adapt it to your use case.
+areas. In spite of that, it is already capable of doing things traditionally not
+possible with Unity. Feel free to adapt it to your use case.

@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: SpawnProcessor
   m_EditorClassIdentifier: 
   bounds:
-    m_Center: {x: 100, y: 5, z: 100}
-    m_Extent: {x: 125, y: 30, z: 125}
+    m_Center: {x: 125, y: 75, z: 125}
+    m_Extent: {x: 250, y: 250, z: 250}
   seed: 626756527
